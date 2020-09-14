@@ -42,7 +42,7 @@ _**Management Science**_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and
 _**Journal of Financial & Quantitative Analysis**_, forthcoming (with Y. Xi)
 
 
-See complete list of publications[...](https://mbwintoki.github.io/publications)
+[See complete list of publications...](https://mbwintoki.github.io/publications)
 
 
 Teaching
