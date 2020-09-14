@@ -13,7 +13,7 @@ Jide Wintoki is the Associate Dean of Graduate Studies, Capitol Federal Professo
 Prior to his studies at Georgia, Jide completed his undergraduate studies in Electrical Engineering at the University of Lagos. He also worked in a variety of positions with ExxonMobil, Procter & Gamble, and NLNG (A Shell Gas/Agip/TotalFinaElf/NNPC Joint Venture).
 
 
-A data-driven personal website
+Selected Publications
 ======
 [Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005) 
 Journal of Financial Economics, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
