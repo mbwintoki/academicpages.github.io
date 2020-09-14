@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jide Wintoki's Site"
 title_separator          : "-"
 name                     : &name "Jide Wintoki"
-description              : &description "personal description"
+description              : &description "Jide Wintoki's Site"
 url                      : https://mbwintoki.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mbwintoki.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Jide Wintoki"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "Lawrence, KS, U.S.A."
   employer         :
   pubmed           :  # ""
   googlescholar    : "https://scholar.google.com/citations?user=XpN9MScAAAAJ&hl=en&oi=ao"
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mbwintoki"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
