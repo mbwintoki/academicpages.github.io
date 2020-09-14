@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jide Wintoki's Site"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-Jide Wintoki is the Capitol Federal Professor of Finance and Area Director of Analytics, Information, and Operations Management (AIO) at the University of Kansas School of Business. His research interests include empirical corporate finance, international finance and applied econometrics. Prior to joining KU in 2008, he taught at the Terry College of Business of the University of Georgia where he also obtained a Ph.D. in Finance. In addition to research, Jide teaches classes in Corporate Financial Policy, Business Investments, Business Finance and International Finance at the undergraduate and graduate level. Jide has also served as Visiting Financial Economist in the Division of Economic and Risk Analysis (DERA) of the U.S. Securities and Exchange Commission (S.E.C.).
+Jide Wintoki is the Associate Dean of Graduate Studies, Capitol Federal Professor of Finance and Area Director of Analytics, Information, and Operations Management (AIO) at the University of Kansas School of Business. His research interests include empirical corporate finance, international finance and applied econometrics. Prior to joining KU in 2008, he taught at the Terry College of Business of the University of Georgia where he also obtained a Ph.D. in Finance. In addition to research, Jide teaches classes in Corporate Financial Policy, Business Investments, Business Finance and International Finance at the undergraduate and graduate level. Jide has also served as Visiting Financial Economist in the Division of Economic and Risk Analysis (DERA) of the U.S. Securities and Exchange Commission (S.E.C.).
 
 Prior to his studies at Georgia, Jide completed his undergraduate studies in Electrical Engineering at the University of Lagos. He also worked in a variety of positions with ExxonMobil, Procter & Gamble, and NLNG (A Shell Gas/Agip/TotalFinaElf/NNPC Joint Venture).
 
+
 A data-driven personal website
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+[_Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005) 
+Journal of Financial Economics, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+Implications of Data Screens on Merger and Acquisition Analysis: A Large Sample Study of Mergers and Acquisitions from 1992–2009, Review of Financial Studies, 24 (2011), 2316 – 2357 (with J. Netter and M. Stegemoller)
+
+
+Foreign Independent Directors and the Quality of Legal Institutions
+Journal of International Business Studies, 48 (2017), 267 – 292 (with M. Miletkov and A. Poulsen)
+
+
+Director Networks and Informed Traders 
+Journal of Accounting & Economics, 62 (2016), 1 – 23 (with F. Akbas and F. Meschke)
+
+
+Do CMO Incentives Matter? An Empirical Investigation of CMO Compensation and Its Impact on Firm Performance
+Management Science, 63 (2017), 1993 – 2015 (with N. Bansal, K. Joseph and M. Ma)
+
+
+Offshore Expertise for Onshore Companies: Director Connections to Island Tax Havens and Corporate Tax Policy 
+Management Science, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov)
+
+
+Partisan Bias in Fund Portfolios 
+Journal of Financial & Quantitative Analysis, forthcoming (with Y. Xi)
+
+
+See complete list of publications...
 
 Getting started
 ======
