@@ -15,7 +15,7 @@ Prior to his studies at Georgia, Jide completed his undergraduate studies in Ele
 
 Selected Publications
 ------
-[Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005) 
+[Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005), 
 _**Journal of Financial Economics**_, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
 
 
