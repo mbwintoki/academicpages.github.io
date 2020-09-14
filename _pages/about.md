@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jide Wintoki's Site"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Jide Wintoki is the Capitol Federal Professor of Finance and Area Director of Analytics, Information, and Operations Management (AIO) at the University of Kansas School of Business. His research interests include empirical corporate finance, international finance and applied econometrics. Prior to joining KU in 2008, he taught at the Terry College of Business of the University of Georgia where he also obtained a Ph.D. in Finance. In addition to research, Jide teaches classes in Corporate Financial Policy, Business Investments, Business Finance and International Finance at the undergraduate and graduate level. Jide has also served as Visiting Financial Economist in the Division of Economic and Risk Analysis (DERA) of the U.S. Securities and Exchange Commission (S.E.C.).
+
+Prior to his studies at Georgia, Jide completed his undergraduate studies in Electrical Engineering at the University of Lagos. He also worked in a variety of positions with ExxonMobil, Procter & Gamble, and NLNG (A Shell Gas/Agip/TotalFinaElf/NNPC Joint Venture).
 
 A data-driven personal website
 ======
