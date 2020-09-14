@@ -16,7 +16,6 @@ Prior to his studies at Georgia, Jide completed his undergraduate studies in Ele
 A data-driven personal website
 ======
 [Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005) 
-
 Journal of Financial Economics, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
 
 
