@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jide Wintoki Home"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Jide Wintoki"
 description              : &description "Jide Wintoki's Site"
