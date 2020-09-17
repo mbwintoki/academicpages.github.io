@@ -27,7 +27,7 @@ _**Journal of International Business Studies**_, 48 (2017), 267 – 292 (with M.
 
 
 Director Networks and Informed Traders, 
-_**Journal of Accounting & Economics**_, 62 (2016), 1 – 23 (with F. Akbas and F. Meschke) [Link](dx.doi.org/10.1016/j.jacceco.2016.03.003)
+_**Journal of Accounting & Economics**_, 62 (2016), 1 – 23 (with F. Akbas and F. Meschke) [Link](http://dx.doi.org/10.1016/j.jacceco.2016.03.003)
 
 
 Do CMO Incentives Matter? An Empirical Investigation of CMO Compensation and Its Impact on Firm Performance,
