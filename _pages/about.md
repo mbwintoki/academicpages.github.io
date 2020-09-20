@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jide Wintoki"
+title: "Bio"
 excerpt: "Bio"
 author_profile: true
 redirect_from: 
