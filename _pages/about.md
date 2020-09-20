@@ -39,7 +39,7 @@ _**Management Science**_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and
 
 
 [Partisan Bias in Fund Portfolios](https://doi.org/10.1017/S0022109019000383), 
-_**Journal of Financial & Quantitative Analysis**_, 55 (2020), 1717 – 1754 (with Y. Xi) [Link]
+_**Journal of Financial & Quantitative Analysis**_, 55 (2020), 1717 – 1754 (with Y. Xi)
 
 
 [See complete list of publications...](https://mbwintoki.github.io/publications)
