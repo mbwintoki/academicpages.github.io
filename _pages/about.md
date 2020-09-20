@@ -15,8 +15,8 @@ Prior to his studies at Georgia, Jide completed his undergraduate studies in Ele
 
 Selected Publications
 ------
-Endogeneity and the Dynamics of Internal Corporate Governance, 
-_**Journal of Financial Economics**_, 105 (2012), 581 – 606 (with J. Linck and J. Netter) [Link](http://dx.doi.org/10.1016/j.jfineco.2012.03.005)
+[Endogeneity and the Dynamics of Internal Corporate Governance](http://dx.doi.org/10.1016/j.jfineco.2012.03.005), 
+_**Journal of Financial Economics**_, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
 
 
 Implications of Data Screens on Merger and Acquisition Analysis: A Large Sample Study of Mergers and Acquisitions from 1992–2009, _**Review of Financial Studies**_, 24 (2011), 2316 – 2357 (with J. Netter and M. Stegemoller) [Link](http://dx.doi.org/10.1093/rfs/hhr010)
