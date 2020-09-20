@@ -19,27 +19,27 @@ Selected Publications
 _**Journal of Financial Economics**_, 105 (2012), 581 – 606 (with J. Linck and J. Netter)
 
 
-Implications of Data Screens on Merger and Acquisition Analysis: A Large Sample Study of Mergers and Acquisitions from 1992–2009, _**Review of Financial Studies**_, 24 (2011), 2316 – 2357 (with J. Netter and M. Stegemoller) [Link](http://dx.doi.org/10.1093/rfs/hhr010)
+[Implications of Data Screens on Merger and Acquisition Analysis: A Large Sample Study of Mergers and Acquisitions from 1992–2009](http://dx.doi.org/10.1093/rfs/hhr010), _**Review of Financial Studies**_, 24 (2011), 2316 – 2357 (with J. Netter and M. Stegemoller) 
 
 
-Foreign Independent Directors and the Quality of Legal Institutions,
-_**Journal of International Business Studies**_, 48 (2017), 267 – 292 (with M. Miletkov and A. Poulsen) [Link](http://dx.doi.org/10.1057/s41267-016-0033-0)
+[Foreign Independent Directors and the Quality of Legal Institutions](http://dx.doi.org/10.1057/s41267-016-0033-0),
+_**Journal of International Business Studies**_, 48 (2017), 267 – 292 (with M. Miletkov and A. Poulsen)
 
 
-Director Networks and Informed Traders, 
-_**Journal of Accounting & Economics**_, 62 (2016), 1 – 23 (with F. Akbas and F. Meschke) [Link](http://dx.doi.org/10.1016/j.jacceco.2016.03.003)
+[Director Networks and Informed Traders](http://dx.doi.org/10.1016/j.jacceco.2016.03.003), 
+_**Journal of Accounting & Economics**_, 62 (2016), 1 – 23 (with F. Akbas and F. Meschke)
 
 
-Do CMO Incentives Matter? An Empirical Investigation of CMO Compensation and Its Impact on Firm Performance,
-_**Management Science**_, 63 (2017), 1993 – 2015 (with N. Bansal, K. Joseph and M. Ma) [Link](http://dx.doi.org/10.1287/mnsc.2015.2418)
+[Do CMO Incentives Matter? An Empirical Investigation of CMO Compensation and Its Impact on Firm Performance](http://dx.doi.org/10.1287/mnsc.2015.2418),
+_**Management Science**_, 63 (2017), 1993 – 2015 (with N. Bansal, K. Joseph and M. Ma)
 
 
-Offshore Expertise for Onshore Companies: Director Connections to Island Tax Havens and Corporate Tax Policy 
-_**Management Science**_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov) [Link](http://dx.doi.org/10.1287/mnsc.2017.2776)
+[Offshore Expertise for Onshore Companies: Director Connections to Island Tax Havens and Corporate Tax Policy](http://dx.doi.org/10.1287/mnsc.2017.2776), 
+_**Management Science**_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov)
 
 
-Partisan Bias in Fund Portfolios 
-_**Journal of Financial & Quantitative Analysis**_, 55 (2020), 1717 – 1754 (with Y. Xi) [Link](https://doi.org/10.1017/S0022109019000383)
+[Partisan Bias in Fund Portfolios](https://doi.org/10.1017/S0022109019000383), 
+_**Journal of Financial & Quantitative Analysis**_, 55 (2020), 1717 – 1754 (with Y. Xi) [Link]
 
 
 [See complete list of publications...](https://mbwintoki.github.io/publications)
