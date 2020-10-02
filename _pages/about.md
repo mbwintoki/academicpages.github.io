@@ -34,12 +34,11 @@ _Journal of Accounting & Economics_, 62 (2016), 1 – 23 (with F. Akbas and F. M
 _Management Science_, 63 (2017), 1993 – 2015 (with N. Bansal, K. Joseph and M. Ma)
 
 
-[Offshore Expertise for Onshore Companies: Director Connections to Island Tax Havens and Corporate Tax Policy](http://dx.doi.org/10.1287/mnsc.2017.2776), 
-_Management Science_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov)
-
-
 [Partisan Bias in Fund Portfolios](https://doi.org/10.1017/S0022109019000383), 
 _Journal of Financial & Quantitative Analysis_, 55 (2020), 1717 – 1754 (with Y. Xi)
+
+[Offshore Expertise for Onshore Companies: Director Connections to Island Tax Havens and Corporate Tax Policy](http://dx.doi.org/10.1287/mnsc.2017.2776), 
+_Management Science_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov)
 
 
 [See complete list of publications...](https://mbwintoki.github.io/publications)
