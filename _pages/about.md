@@ -41,7 +41,7 @@ _Journal of Financial & Quantitative Analysis_, 55 (2020), 1717 – 1754 (with Y
 _Management Science_, 64 (2018), 3241 – 3268 (with C. Jiang, T. Kubick and M. Miletkov)
 
 
-[See complete list of publications...](https://mbwintoki.github.io/publications).
+[See complete list of publications...](https://mbwintoki.github.io/publications)
 
 
 Teaching
